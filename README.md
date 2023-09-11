@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64fdc3205ce9f4ca58adaefc?variant=dark&roadmaps=frontend)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64fdc3205ce9f4ca58adaefc?variant=dark&roadmaps=frontend)](https://roadmap.sh)
 <!--
 **rockjaylee/rockjaylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
